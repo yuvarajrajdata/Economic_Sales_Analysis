@@ -36,13 +36,13 @@ This Power BI project focuses on analyzing sales data to gain insights into econ
 
 ![readme_page-0003](https://github.com/yuvarajrajdata/Economic_Sales_Analysis/assets/126889862/ddc61174-5e7c-4806-b5cf-246c0b47b0f6)
 ![readme_page-0004](https://github.com/yuvarajrajdata/Economic_Sales_Analysis/assets/126889862/0efc0fd4-0355-410a-809e-3d03091fd089)
+1. **Visualizations**: Display bar charts to Total sales revenue based on Customer Gender Categories and Product Categories.
+2. **Interactivity**: Implement filters to allow users to explore sales data based on Select Age-wise.
 ![readme_page-0005](https://github.com/yuvarajrajdata/Economic_Sales_Analysis/assets/126889862/36098c09-0909-4d57-bfd9-966cd66e6422)
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or additional analyses, feel free to fork this repository and submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any questions or inquiries, please contact [Your Name] at [your@email.com].
+For any questions or inquiries, please contact YUVARAJ M at yuvarajspt1998@gmail.com.
 ## Thank you !
