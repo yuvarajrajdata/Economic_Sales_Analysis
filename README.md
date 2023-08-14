@@ -18,17 +18,21 @@ This Power BI project focuses on analyzing sales data to gain insights into econ
 3. **Filters and Slicers**: Use filters and slicers to narrow down your analysis based on specific criteria.
 4. **Interpretation**: Review the insights provided in each visualization and their implications for decision-making.
 5. **Next Steps**: Consider applying the insights to refine sales strategies, target specific demographics, and optimize product offerings.
-6. 
+ 
 ![readme_page-0001](https://github.com/yuvarajrajdata/Economic_Sales_Analysis/assets/126889862/0be3d770-87c6-4236-99d2-cc9b608d48f3)
 #Time-Based Analysis
 1. **Visualizations**: Utilize line charts and area charts to illustrate sales revenue and quantity trends over different years and months.
 2. **Insights**: Identify seasonal patterns, growth trends, and potential influences on sales performance.
 
+   
+
 ![readme_page-0002](https://github.com/yuvarajrajdata/Economic_Sales_Analysis/assets/126889862/06340a57-6386-41b9-ac94-ec9e29de0c55)
 #Demographic Analysis
-1. **Visualizations**: Display bar charts to depict sales revenue distribution across different age groups and genders.
-2. **Interactivity**: Implement filters to allow users to explore sales data based on specific demographics.
-Notable Trends: Highlight trends such as higher female contributions in certain age groups and potential age-based preferences.
+1. **Visualizations**: Display bar charts to Total sales revenue distribution across different Product Categories and Countries.
+2. **Interactivity**: Implement filters to allow users to explore sales data based on Select Years-wise.
+**Notable Trends** : Highlight trends such as higher Sales Trends in the USA, UK, Germany, and France with groups and potential Product-based preferences.
+
+
 
 ![readme_page-0003](https://github.com/yuvarajrajdata/Economic_Sales_Analysis/assets/126889862/ddc61174-5e7c-4806-b5cf-246c0b47b0f6)
 ![readme_page-0004](https://github.com/yuvarajrajdata/Economic_Sales_Analysis/assets/126889862/0efc0fd4-0355-410a-809e-3d03091fd089)
